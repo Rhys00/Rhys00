@@ -9,7 +9,7 @@
 <div align="left">
     <h3>👍 » About me:</h3>
         <p>• I’m currently learning: <b>Studying the business world.</b></p>
-        <p>• Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃 </b></p>
+        <p>• Hobbies: <b>Gaming • Driving • Football • Crypto • NFTs </b></p>
         <p>• How to reach me: <b>Rhys#2793</b> | <b>rhysmoore77@outlook.com</b></p>
 </div><br>
 
