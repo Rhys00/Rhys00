@@ -22,12 +22,12 @@
 
 <div>
   <h3>🧰 » Tools I use:</h3><br>
-    <a href="https://"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="PHOTOSHOP"></a>
-    <a href="https://"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="ILLUSTRATOR"></a>
-    <a href="https://"><img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="INDESIGN"></a>
-    <a href="https://"><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="XD"> </a>
-    <a href="https://"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA"></a>
-    <a href="https://"><img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="CREATIVECLOUD"></a>
+    <a href="https://github.com/Rhys00"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="PHOTOSHOP"></a>
+    <a href="https://github.com/Rhys00"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="ILLUSTRATOR"></a>
+    <a href="https://github.com/Rhys00"><img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="INDESIGN"></a>
+    <a href="https://github.com/Rhys00"><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="XD"> </a>
+    <a href="https://github.com/Rhys00"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA"></a>
+    <a href="https://github.com/Rhys00"><img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="CREATIVECLOUD"></a>
 </div>
 
 ___
