@@ -10,7 +10,7 @@
     <h3>👍 » About me:</h3>
         <p>•  <u>Studying the business world.</p>
         <p>• Hobbies: <b>Gaming • Driving • Football • Crypto • NFTs </b></p>
-        <p>• How to reach me: <b>Rhys#2793</b> | <b>rhysmoore77@outlook.com</b></p>
+        <p>• How to reach me: <b>Rhys#2793</b></p>
 </div><br>
 
 <div align="center">
